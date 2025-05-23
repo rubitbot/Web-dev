@@ -503,6 +503,7 @@ padding-top: 10px;
     
 }
 .herosectiontext{
+     padding-left: 10px;
     text-align: center;
     flex-grow: 1;
     align-content: center;
