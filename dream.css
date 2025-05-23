@@ -27,7 +27,7 @@ html{
     
     height:500px ;
     width:100% ;
-    background-image:url(img/image6.jpg) ;
+    background-image:url(image6.jpg) ;
     z-index: -3;
     background-size: cover;
     
@@ -158,7 +158,7 @@ padding-top: 10px;
         padding-right: 40px;
         margin-top: 45px;
         position: relative;
-        background-image: url(img/Picture1hero1.png);
+        background-image: url(Picture1hero1.png);
         background-position: center;
         background-size: cover;
        
@@ -431,7 +431,7 @@ padding-top: 10px;
         box-sizing: border-box;
     }
     .background{
-        background-image: url("img/image2.jpg");
+        background-image: url("image6.jpg");
         background-position: center;
         background-size: cover;
     }
